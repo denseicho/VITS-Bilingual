@@ -24,6 +24,7 @@ python setup.py build_ext --inplace
 
 1. <a href="https://sites.google.com/site/shinnosuketakamichi/research-topics/jvs_corpus">JVS corpus</a>をダウンロード、解凍します。  
 
+2. <a href="https://drive.google.com/uc?id=1Mdy8x0m0NRwHyB3X-i345v2m26t_toTV">generator_chipanese.pth</a>をダウンロードする。  
 
 ## 使い方
 一括日本語音声作成
